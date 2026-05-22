@@ -1,0 +1,101 @@
+{
+  "India": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429494,
+    "update_time": 1779429494,
+    "_id": "India"
+  },
+  "South Asia": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429494,
+    "update_time": 1779429494,
+    "_id": "South Asia"
+  },
+  "New Delhi": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429494,
+    "update_time": 1779429494,
+    "_id": "New Delhi"
+  },
+  "Mumbai": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429494,
+    "update_time": 1779429494,
+    "_id": "Mumbai"
+  },
+  "Bombay Stock Exchange": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429494,
+    "update_time": 1779429494,
+    "_id": "Bombay Stock Exchange"
+  },
+  "Reserve Bank of India": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429494,
+    "update_time": 1779429494,
+    "_id": "Reserve Bank of India"
+  },
+  "Narendra Modi": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429494,
+    "update_time": 1779429494,
+    "_id": "Narendra Modi"
+  },
+  "British Rule": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429494,
+    "update_time": 1779429494,
+    "_id": "British Rule"
+  },
+  "August 15, 1947": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429495,
+    "update_time": 1779429495,
+    "_id": "August 15, 1947"
+  },
+  "Monetary Policy": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429495,
+    "update_time": 1779429495,
+    "_id": "Monetary Policy"
+  },
+  "Indian Economy": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429495,
+    "update_time": 1779429495,
+    "_id": "Indian Economy"
+  }
+}

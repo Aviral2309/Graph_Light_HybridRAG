@@ -1,0 +1,50 @@
+{
+  "doc-ad716fa3096b3c10f2cde6b328f812d9": {
+    "relation_pairs": [
+      [
+        "Monetary Policy",
+        "Reserve Bank of India"
+      ],
+      [
+        "India",
+        "South Asia"
+      ],
+      [
+        "India",
+        "Narendra Modi"
+      ],
+      [
+        "India",
+        "New Delhi"
+      ],
+      [
+        "August 15, 1947",
+        "India"
+      ],
+      [
+        "British Rule",
+        "India"
+      ],
+      [
+        "India",
+        "Mumbai"
+      ],
+      [
+        "Mumbai",
+        "Reserve Bank of India"
+      ],
+      [
+        "India",
+        "Indian Economy"
+      ],
+      [
+        "Bombay Stock Exchange",
+        "Mumbai"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1779429499,
+    "update_time": 1779429499,
+    "_id": "doc-ad716fa3096b3c10f2cde6b328f812d9"
+  }
+}

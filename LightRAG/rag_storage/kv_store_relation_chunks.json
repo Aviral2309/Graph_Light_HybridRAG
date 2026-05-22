@@ -1,0 +1,92 @@
+{
+  "India<SEP>South Asia": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429496,
+    "update_time": 1779429496,
+    "_id": "India<SEP>South Asia"
+  },
+  "Bombay Stock Exchange<SEP>Mumbai": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429496,
+    "update_time": 1779429496,
+    "_id": "Bombay Stock Exchange<SEP>Mumbai"
+  },
+  "Monetary Policy<SEP>Reserve Bank of India": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429496,
+    "update_time": 1779429496,
+    "_id": "Monetary Policy<SEP>Reserve Bank of India"
+  },
+  "Mumbai<SEP>Reserve Bank of India": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429496,
+    "update_time": 1779429496,
+    "_id": "Mumbai<SEP>Reserve Bank of India"
+  },
+  "India<SEP>New Delhi": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429496,
+    "update_time": 1779429496,
+    "_id": "India<SEP>New Delhi"
+  },
+  "India<SEP>Mumbai": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429497,
+    "update_time": 1779429497,
+    "_id": "India<SEP>Mumbai"
+  },
+  "India<SEP>Narendra Modi": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429497,
+    "update_time": 1779429497,
+    "_id": "India<SEP>Narendra Modi"
+  },
+  "British Rule<SEP>India": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429498,
+    "update_time": 1779429498,
+    "_id": "British Rule<SEP>India"
+  },
+  "August 15, 1947<SEP>India": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429498,
+    "update_time": 1779429498,
+    "_id": "August 15, 1947<SEP>India"
+  },
+  "India<SEP>Indian Economy": {
+    "chunk_ids": [
+      "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+    ],
+    "count": 1,
+    "create_time": 1779429499,
+    "update_time": 1779429499,
+    "_id": "India<SEP>Indian Economy"
+  }
+}

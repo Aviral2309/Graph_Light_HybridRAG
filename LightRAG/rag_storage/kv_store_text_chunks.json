@@ -1,0 +1,16 @@
+{
+  "chunk-ad716fa3096b3c10f2cde6b328f812d9": {
+    "tokens": 477,
+    "content": "India is a country in South Asia. It is the seventh-largest country by area and the mostpopulous country. \nNew Delhi is the capital of India. The Indian economy is one of thefastest-growing major economies.\n Mumbai is the financial capital and home to the BombayStock Exchange. \n The Reserve Bank of India, headquartered in Mumbai, controls monetary policy.\n Narendra Modi has served as Prime Minister since 2014. \n India became independent from Britishrule on August 15, 1947.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ad716fa3096b3c10f2cde6b328f812d9",
+    "file_path": "data\\sample.txt",
+    "llm_cache_list": [
+      "default:extract:22f99cdd513ffe38d785c1a9acbfaa45",
+      "default:extract:4034033ecb80ce169e06cda4f6810821"
+    ],
+    "create_time": 1779429460,
+    "update_time": 1779429494,
+    "_id": "chunk-ad716fa3096b3c10f2cde6b328f812d9"
+  }
+}
